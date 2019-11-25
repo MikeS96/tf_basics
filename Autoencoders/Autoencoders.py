@@ -2,7 +2,6 @@
 """
 Created on Fri Apr 27 15:31:02 2018
 
-@author: Cortana
 """
 
 import numpy as np
